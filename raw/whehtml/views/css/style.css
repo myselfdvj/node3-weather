@@ -1,0 +1,36 @@
+body{
+    color: darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width:650px;
+    margin: 0 auto;
+    padding: 0 19px;
+    
+    min-height: 100vh
+}
+
+.main-content{
+    flex-grow: 1;
+}
+
+footer{
+    color:dimgray ;
+    border-top:1px solid darkslateblue ;
+    margin-top:16px ;
+    padding: 16px 0 ;
+}
+h1{
+    font-size: 25px;
+    margin-bottom: 16px;
+}
+a{
+    color:darkslategray ;
+    margin-right:16px ;
+    text-decoration: none;
+}
+.potrait {
+    width: 250px;
+}
+header {
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
